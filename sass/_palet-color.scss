@@ -1,0 +1,14 @@
+.palet-colors {
+  flex-wrap: wrap;
+  width: 140px;
+  height: 195px;
+  margin: 10px 0 0 0;
+  span {
+    display: inline-block;
+    width: 15px;
+    aspect-ratio: 1/1;
+    border-radius: 10px;
+    margin: 2.5px;
+    cursor: pointer;
+  }
+}

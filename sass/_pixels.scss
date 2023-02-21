@@ -1,0 +1,13 @@
+.pixels {
+  width: 360px;
+  height: 360px;
+  cursor: crosshair;
+  span {
+    display: inline-block;
+    width: 20px;
+    margin: 0 4px 0 0;
+    aspect-ratio: 1/1;
+    border-radius: 5px;
+    background: $second-background-color;
+  }
+}

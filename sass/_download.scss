@@ -1,0 +1,14 @@
+.btn-download {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  width: 140px;
+  height: 35px;
+  border: none;
+  border-radius: 5px;
+  font-size: 17px;
+  font-weight: 700;
+  color: $text-color;
+  background: $btn-download-color;
+  cursor: pointer;
+}

@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "tworzenie obrazów w stylu retro",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Szymon Skałecki",
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "html2image": "^2.0.0",
+    "parcel": "^2.8.3",
+    "sass": "^1.58.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3"
+  }
+}
