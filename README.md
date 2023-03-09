@@ -1,6 +1,6 @@
 # Kreator grafiki pikselowej
 
-![kreator grafiki](https://user-images.githubusercontent.com/105738321/220420751-1ed767ad-30a0-42c9-a5ac-bd4896bfb85f.png)
+![kreator](https://user-images.githubusercontent.com/105738321/224104358-a9d20008-06f1-4313-8051-c027134c0e76.png)
 
 # Przyjemny, intuicyjny kreator
 
