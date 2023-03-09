@@ -12,6 +12,7 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+    <!-- <link rel="stylesheet" href="sass/main.scss" /> -->
     <link rel="stylesheet" href="css/style.css" />
     <link rel="icon" href="img/logo.png" />
     <script
@@ -28,12 +29,14 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     ></script>
-    <script defer src="js/pixels.js"></script>
+    <script defer src="js/script.js"></script>
     <title>Kreator grafiki pikselowej</title>
   </head>
   <body>
     <img src="img/logo.png" class="logo" />
+
     <section class="content-box">
+      <div class="bg"></div>
       <section class="pixels"></section>
       <section class="tools">
         <button class="clear"><i class="fa-solid fa-trash"></i></button>
@@ -45,7 +48,8 @@
         </ul>
         <section class="palet-colors"></section>
       </section>
-      <button class="btn-download">Pobierz</button>
+      <button class="btn-download">Zapisz</button>
+      <div class="bg"></div>
     </section>
   </body>
 </html>
